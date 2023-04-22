@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Hotel Natraj",
+        "icon":"Images/Natraj.jpg",
+        "Content":"Facilities:Free Wi-fi,AC rooms,No reservation cost,Low Rates"
+
+    },
+    {
+        "id":2,
+        "title":"Himalaya Resort/Hotel",
+        "icon":"Images/Himalaya.jpg",
+        "Content":"Facilities:AC rooms,Free Wi-fi,5-Star food,Low Rates"
+    },
+    {
+        "id":3,
+        "title":"Dinoz Hostel",
+        "icon":"Images/Dinoz.jpg",
+        "Content":"Facilities:Free Wi-fi,Swimming pool,AC rooms,Indoor/Outdoor sports"
+    },
+    {
+        "id":4,
+        "title":"OYO Vice Hotel",
+        "icon":"Images/OYO_Vice.jpeg",
+        "Content":"Facilities:Free Wi-fi,Low Rates,5-Star service,AC rooms"
+    }
+]
